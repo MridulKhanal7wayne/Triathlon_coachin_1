@@ -1,5 +1,5 @@
 import React from 'react'
-import IRONMAN_Trim_2 from "../../assets/IRONMAN_Trim_2.mp4";
+import IRONMAN_Trim_4 from "../../assets/IRONMAN_Trim_4.webm";
 
 const Video = () => {
   return (
@@ -9,7 +9,7 @@ const Video = () => {
         loop 
         muted 
         className="w-full h-full object-cover" 
-        src={IRONMAN_Trim_2}
+        src={IRONMAN_Trim_4}
       ></video>
     </div>
   )
