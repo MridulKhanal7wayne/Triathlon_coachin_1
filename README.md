@@ -1,16 +1,25 @@
-# React + Vite
+Triathlon Coaching Website 🏊🚴🏃
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated triathlon coaching website built with React and GSAP.
+The site is designed for triathletes looking for structured coaching, training plans, and performance-focused guidance — with smooth motion and micro-interactions to bring the brand to life.
 
-Currently, two official plugins are available:
+⸻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Features
+	•	Hero section with motion
+Dynamic landing section with animated headings, call-to-action buttons, and smooth entrances powered by GSAP.
+	•	Coaching Services & Plans
+Clearly structured triathlon coaching tiers (Sprint, Olympic, Half, Full, etc.) with details on what’s included.
+	•	Training Philosophy Section
+Explains the coaching approach: periodization, intensity zones, endurance focus, recovery, etc.
+	•	Animated Sections on Scroll
+Sections fade, slide, and scale into view using GSAP scroll animations.
+	•	Athlete Testimonials
+Cards or sliders showcasing athlete feedback and race results.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#Tech Stack
+	•	Frontend: React (with hooks & functional components)
+	•	Animations: GSAP (GreenSock Animation Platform)
+	•	Styling: (choose what matches your project)
+	•	Tailwind CSS / CSS Modules / Styled Components / Plain CSS
+	•	Build Tool: Vite / Create React App (depending on your setup)
