@@ -18,8 +18,7 @@ Sections fade, slide, and scale into view using GSAP scroll animations.
 Cards or sliders showcasing athlete feedback and race results.
 
 #Tech Stack
-	•	Frontend: React (with hooks & functional components)
-	•	Animations: GSAP (GreenSock Animation Platform)
-	•	Styling: (choose what matches your project)
+	•	Frontend: React 
+	•	Animations: GSAP 
 	•	Tailwind CSS / CSS Modules / Styled Components / Plain CSS
-	•	Build Tool: Vite / Create React App (depending on your setup)
+	•	Build Tool: Vite / Create React App 
